@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/CarpoolingCrossCutting/pom.xml" />
+        <option value="$PROJECT_DIR$/CarpoolingDTO/pom.xml" />
+        <option value="$PROJECT_DIR$/CarpoolingEntity/pom.xml" />
+        <option value="$PROJECT_DIR$/CarpoolingRepository/pom.xml" />
+        <option value="$PROJECT_DIR$/CarpoolingService/pom.xml" />
+        <option value="$PROJECT_DIR$/CrossCuting/pom.xml" />
+        <option value="$PROJECT_DIR$/CarpoolingAPI/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
